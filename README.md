@@ -1,4 +1,4 @@
-# TronBox v2.7.18
+# LiteBox v2.7.18
 Simple development framework for tronweb
 **TronBox is a fork of [Truffle](https://www.trufflesuite.com/truffle) [code](https://github.com/trufflesuite/truffle)**
 
